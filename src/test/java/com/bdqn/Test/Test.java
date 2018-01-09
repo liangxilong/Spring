@@ -6,5 +6,11 @@ public class Test {
 		
 		System.out.println("sssssss");
 	}
+	
+	public static String ok() {
+		
+		return "ok";
+		
+	}
 
 }
